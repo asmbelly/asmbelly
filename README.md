@@ -44,18 +44,6 @@ I'm a passionate developer who loves exploring different languages and technolog
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmbelly&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmbelly&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
----
-
 ## Featured Projects
 
 ### Ultimate-Claude-Setup-Guide
